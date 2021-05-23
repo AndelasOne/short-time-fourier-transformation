@@ -1,0 +1,8 @@
+librosa==0.8.0
+sounddevice==0.4.1
+numpy==1.19.2
+seaborn==0.11.1
+ipywidgets==7.6.3
+scipy==1.4.1
+matplotlib==3.3.2
+ipython==7.23.1
