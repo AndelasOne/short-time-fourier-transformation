@@ -35,3 +35,9 @@ Neben dem interaktiven Notizbuch kann die Arbeit auch über einen Webbrowser dar
 - ipywidgets
 
 Verwendete Python Version: Python 3.8.5
+
+# Binder
+
+Auf dem Binder Server kann auch ein Großteil der Arbeit angeschaut werden. Allerdings kann die Python Bibliothek "sounddevice" und "librosa" nicht ohne Weiteres in dem Docker Container mit dem Standardimage installiert werden.
+
+https://mybinder.org/v2/gh/AndelasOne/SigSys_STFT_1540399/66f9922602c33a106ae263a952599aaa8582ef7f
