@@ -33,3 +33,5 @@ Neben dem interaktiven Notizbuch kann die Arbeit auch über einen Webbrowser dar
 - sounddevice
 - librosa
 - ipywidgets
+
+Verwendete Python Version: Python 3.8.5
