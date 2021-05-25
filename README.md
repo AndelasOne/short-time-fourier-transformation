@@ -1,7 +1,12 @@
+# Heroku Server
+
+- Password: root
+- Link: https://stft-nb.herokuapp.com/tree
+
 # Short-Time Fourier-Transform (STFT)
 
 Interaktives Notizbuch zur Kurzzeit-Fourier-Transformation in Signale und Systeme.
-Neben dem interaktiven Notizbuch kann die Arbeit auch über einen Webbrowser dargestellt werden. Dafür ist eine HTML Datei beigefügt.
+Neben dem interaktiven Notizbuch kann die Arbeit auch über den Heroku Server angeschaut werden.
 
 <br> Autor: Andreas Weber
 <br> Matrikelnummer: 1540399
